@@ -8,6 +8,7 @@ Loan Management: Users can issue books with custom return dates and manage activ
 Smart Library Assistant: An integrated chatbot to help users find books, check library hours, and inquire about fine policies.
 Availability Tracking: Automatic status updates (Available vs. Issued Out) based on current loan data.
 Responsive Design: Optimized for both desktop and mobile viewing using a modern dark-mode aesthetic.
+No overlapping of Product : Does not allows two different customers issue the same book at the same time.
 
 Tech Stack
 Frontend: HTML5, CSS3 (Flexbox/Grid), Google Fonts (Inter).
